@@ -12,17 +12,17 @@ body{
   color: #006198;
   margin-bottom: 20px;
   text-transform: uppercase;
+  position: relative;
 
 }
 
 .cardTitle::after{
-  content: '  ';
-  width: 40%;
-  height:10px;
-  border-bottom: 5px solid green;
-  padding-right:20% ;
-   transform: translateY(400%);
-  margin-bottom: -50px;
+  content: "  ";
+  width: 10%;
+  border-top: 5px solid green;
+  padding-right: 10%;
+  position: absolute;
+  bottom: -10px;
 
 }
 .container1{
