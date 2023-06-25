@@ -121,7 +121,7 @@ function App() {
          
           <div><BlueCard
           blueImage={img2}
-          title=' Egestas integer bibendum sapien '
+          title=' Egestas integer bibendum sapien sed diam.'
           cardContent='Fames elementum scelerisque lectus sit id. Maecenas porttitor nunc adipiscing gravida tincidunt sed aliquet condimentum leo.'
           /></div>
          
